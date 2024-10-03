@@ -6,7 +6,7 @@
 
 ### Insignia
 <p align="center" >
-     <img width="600" heigth="600" src="![Badge-Portfólio](https://github.com/user-attachments/assets/dc384c3e-120d-432b-bece-4daab6e9dc54)">
+     <img width="600" heigth="600" src="file:///C:/Users/JULIO/Downloads/Badge-Portf%C3%B3lio.png">
 </p>
 
 ### ¡Bienvenido al proyecto base del Portafolio ! Pasos principales:
